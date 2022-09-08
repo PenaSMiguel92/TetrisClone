@@ -1,0 +1,174 @@
+﻿  main.cpp
+E:\Miguel's Items\CPlusPlusDev\TetrisGame\main.cpp(66,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Miguel's Items\CPlusPlusDev\TetrisGame\main.cpp(78,56): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\Miguel's Items\CPlusPlusDev\TetrisGame\main.cpp(77,56): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\Miguel's Items\CPlusPlusDev\TetrisGame\main.cpp(82,75): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\Miguel's Items\CPlusPlusDev\TetrisGame\main.cpp(82,58): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\Miguel's Items\CPlusPlusDev\TetrisGame\main.cpp(91,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Miguel's Items\CPlusPlusDev\TetrisGame\main.cpp(98,71): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\Miguel's Items\CPlusPlusDev\TetrisGame\main.cpp(98,56): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\Miguel's Items\CPlusPlusDev\TetrisGame\main.cpp(102,122): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+E:\Miguel's Items\CPlusPlusDev\TetrisGame\main.cpp(102,69): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+E:\Miguel's Items\CPlusPlusDev\TetrisGame\main.cpp(113,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Miguel's Items\CPlusPlusDev\TetrisGame\main.cpp(132,35): warning C4018: '<': signed/unsigned mismatch
+E:\Miguel's Items\CPlusPlusDev\TetrisGame\main.cpp(254,35): warning C4018: '<': signed/unsigned mismatch
+E:\Miguel's Items\CPlusPlusDev\TetrisGame\main.cpp(257,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Miguel's Items\CPlusPlusDev\TetrisGame\main.cpp(276,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Miguel's Items\CPlusPlusDev\TetrisGame\main.cpp(277,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Miguel's Items\CPlusPlusDev\TetrisGame\main.cpp(287,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Miguel's Items\CPlusPlusDev\TetrisGame\main.cpp(314,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Miguel's Items\CPlusPlusDev\TetrisGame\main.cpp(321,91): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\Miguel's Items\CPlusPlusDev\TetrisGame\main.cpp(321,68): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\Miguel's Items\CPlusPlusDev\TetrisGame\main.cpp(326,101): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+E:\Miguel's Items\CPlusPlusDev\TetrisGame\main.cpp(325,102): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+E:\Miguel's Items\CPlusPlusDev\TetrisGame\main.cpp(370,81): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Miguel's Items\CPlusPlusDev\TetrisGame\main.cpp(370,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Miguel's Items\CPlusPlusDev\TetrisGame\main.cpp(379,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Miguel's Items\CPlusPlusDev\TetrisGame\main.cpp(383,77): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\Miguel's Items\CPlusPlusDev\TetrisGame\main.cpp(383,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\Miguel's Items\CPlusPlusDev\TetrisGame\main.cpp(429,69): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Miguel's Items\CPlusPlusDev\TetrisGame\main.cpp(433,72): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Miguel's Items\CPlusPlusDev\TetrisGame\main.cpp(452,52): warning C4305: '=': truncation from 'double' to 'float'
+E:\Miguel's Items\CPlusPlusDev\TetrisGame\main.cpp(493,61): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\Miguel's Items\CPlusPlusDev\TetrisGame\main.cpp(495,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Miguel's Items\CPlusPlusDev\TetrisGame\main.cpp(513,115): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\Miguel's Items\CPlusPlusDev\TetrisGame\main.cpp(513,85): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\Miguel's Items\CPlusPlusDev\TetrisGame\main.cpp(514,133): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\Miguel's Items\CPlusPlusDev\TetrisGame\main.cpp(514,103): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  TetrisGame.vcxproj -> E:\Miguel's Items\CPlusPlusDev\TetrisGame\Debug\TetrisGame.exe
